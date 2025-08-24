@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Wisdom Alornyo  
+# 👋 Hi, I’m Wisdom
 
 🎓 Student at **Ghana Communication Technology University (GCTU)**  
 💻 Passionate about **Web Development & Cybersecurity**  
