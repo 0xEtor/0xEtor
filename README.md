@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Wisdom Alornyo  
 
-<!--
-**0xEtor/0xEtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at **Ghana Communication Technology University (GCTU)**  
+💻 Passionate about **Web Development & Cybersecurity**  
+🎨 Skilled in **Graphic Design & SEO**   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- 🌐 Build **modern, responsive websites**  
+- 🔐 Learn and practice **Cybersecurity & Ethical Hacking**  
+- 🎨 Design creative **graphics & digital content**  
+- 📊 Study, trade, and explore new ideas  
+
+---
+
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
+
+---
+
+## ✨ Fun Facts About Me
+- ⚡ I love solving mysteries & deep weird facts  
+- 🎶 Music + Code = Perfect combo  
+- 📚 Always learning something new every day  
+
+---
+
+## 🌐 Connect With Me
+📩 [Email Me](mailto:wisdom.e.alornyo@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/0xetor)  
+
+---
+
+⭐️ *"Dreams don’t work unless you do"* ⭐️
