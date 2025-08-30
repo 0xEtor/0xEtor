@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Wisdom
-
-🎓 Student at **Ghana Communication Technology University (GCTU)**  
+  
 💻 Passionate about **Web Development & Cybersecurity**  
 🎨 Skilled in **Graphic Design & SEO**   
 
