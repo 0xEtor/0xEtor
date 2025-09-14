@@ -5,11 +5,24 @@
 
 ---
 
+
 ## 🛠️ Tech Stack  
 
-**Frontend:** ![HTML](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)  
-**Backend:** ![NodeJS](https://skillicons.dev/icons?i=nodejs,cpp)  
-**Design:** ![Photoshop](https://skillicons.dev/icons?i=photoshop,illustrator)  
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" height="30"/>
+</p>
+
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,cpp&theme=dark" height="30"/>
+</p>
+
+**Design**  
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator&theme=dark" height="30"/>
+</p>
+ 
 
 ---
 
