@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Wisdom  
+# 👋 Hey, Uhmm... I'm Wisdom  
 
 🚀 Just building cool stuff & learning as I go.  
 🕵️‍♂️ Into mysteries & strange facts (keeps life interesting).  
