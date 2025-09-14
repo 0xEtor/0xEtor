@@ -8,8 +8,8 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
+### 🌐 Connect with me
+<p align="left">
   <a href="https://linkedin.com/in/0xetor" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -17,14 +17,14 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-<p align="center">
+### 🛠️ Languages & Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,html,js,nodejs,tailwind,photoshop,illustrator&theme=dark" alt="skills"/>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xetor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
