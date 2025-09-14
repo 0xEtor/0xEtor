@@ -1,33 +1,28 @@
-<h1 align="center">Hey 👋, I'm Wisdom</h1>
-<h3 align="center">Just building cool stuff & learning as I go 🚀</h3>
+# 👋 Hey, I'm Wisdom  
+
+🚀 Just building cool stuff & learning as I go.  
+🕵️‍♂️ Into mysteries & strange facts (keeps life interesting).  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:** ![HTML](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)  
+**Backend:** ![NodeJS](https://skillicons.dev/icons?i=nodejs,cpp)  
+**Design:** ![Photoshop](https://skillicons.dev/icons?i=photoshop,illustrator)  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-📬 <strong>wisdom.e.alornyo@gmail.com</strong><br/>
-⚡ I’m into mysteries & strange facts (keeps life interesting)
+  <img src="https://github-readme-stats.vercel.app/api?username=0xetor&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xetor&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me  
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/0xetor)
-
----
-
-## 🛠️ Languages & Tools
-
-![Skills](https://skillicons.dev/icons?i=bootstrap,cpp,css,html,js,nodejs,tailwind,photoshop,illustrator&theme=dark)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xetor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xetor&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xetor&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xetor-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xetor)  
+📧 wisdom.e.alornyo@gmail.com  
